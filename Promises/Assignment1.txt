@@ -1,0 +1,14 @@
+Write a function to download data from a url
+Write a function to save that downloaded data in a file and return the filename
+Write a function to upload the file written in previous step to a newurl
+function downloader(url, cb) {
+    // write a dummy impl using setTimeout to show a delay 
+}
+
+function writeFile(data, cb) {
+    // write a dummy impl using setTimeout to show a delay 
+}
+
+function uploadFile(fileName, newUrl, cb) {
+     // write a dummy impl using setTimeout to show a delay 
+}
